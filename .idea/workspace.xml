@@ -17,24 +17,28 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1457449341971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11_Files_and_Stuff" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test_client.coverage" NAME="test_client Coverage Results" MODIFIED="1457530255853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_TestIterator__1_.coverage" NAME="Unittests in TestIterator (1) Coverage Results" MODIFIED="1457335206420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1457451015591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11_Files_and_Stuff" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$find_sender.coverage" NAME="find_sender Coverage Results" MODIFIED="1457400417005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_Batteries_Included" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$server_using_select.coverage" NAME="server_using_select Coverage Results" MODIFIED="1457534789133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test27.coverage" NAME="test27 Coverage Results" MODIFIED="1456921087761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1457334864496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1457330055867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
-    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test.coverage" NAME="test Coverage Results" MODIFIED="1457476017814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test.coverage" NAME="test Coverage Results" MODIFIED="1457530249138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test13.coverage" NAME="test13 Coverage Results" MODIFIED="1456836609580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1457331158205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
-    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1457477620731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1457558127601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1457332797252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$templates.coverage" NAME="templates Coverage Results" MODIFIED="1457402320134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_Batteries_Included" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test15.coverage" NAME="test15 Coverage Results" MODIFIED="1457336070766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test18.coverage" NAME="test18 Coverage Results" MODIFIED="1457340354680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1457482126334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$server_using_poll.coverage" NAME="server_using_poll Coverage Results" MODIFIED="1457539013473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$w.coverage" NAME="w Coverage Results" MODIFIED="1457482523354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1457335675408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$dictionary_method_example.coverage" NAME="dictionary_method_example Coverage Results" MODIFIED="1456718191482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$threading_server.coverage" NAME="threading_server Coverage Results" MODIFIED="1457533974062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$food_query.coverage" NAME="food_query Coverage Results" MODIFIED="1457527259447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_13_Database_Support" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_TestIterator.coverage" NAME="Unittests in TestIterator Coverage Results" MODIFIED="1457335150325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test17.coverage" NAME="test17 Coverage Results" MODIFIED="1456845721886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
@@ -44,12 +48,14 @@
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1457482450182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test16.coverage" NAME="test16 Coverage Results" MODIFIED="1457336615641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test19.coverage" NAME="test19 Coverage Results" MODIFIED="1456848020273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$server_using_twisted.coverage" NAME="server_using_twisted Coverage Results" MODIFIED="1457558117178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$teat13.coverage" NAME="teat13 Coverage Results" MODIFIED="1456836487251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test25.coverage" NAME="test25 Coverage Results" MODIFIED="1456920349332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1457481550748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$importdata.coverage" NAME="importdata Coverage Results" MODIFIED="1457527239305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_13_Database_Support" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$forking_server.coverage" NAME="forking_server Coverage Results" MODIFIED="1457533631763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1457309669656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_8" />
-    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1457476662786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1457532415170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -59,7 +65,7 @@
     <favorites_list name="Beginning Python From Novice to Professional" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,15 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_8/test10.py" />
-        <option value="$PROJECT_DIR$/chapter_8/test11.py" />
-        <option value="$PROJECT_DIR$/chapter_8/test12.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test1.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test2.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test3.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test4.py" />
-        <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test5.py" />
         <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test6.py" />
         <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test7.py" />
         <option value="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test8.py" />
@@ -125,6 +122,15 @@
         <option value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces/w.py" />
         <option value="$PROJECT_DIR$/chapter_13_Database_Support/importdata.py" />
         <option value="$PROJECT_DIR$/chapter_13_Database_Support/food_query.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/test.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/test_client.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/test1.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/forking_server.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/threading_server.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_select.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_poll.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_twisted.py" />
+        <option value="$PROJECT_DIR$/chapter_14_Network_Programming/test2.py" />
       </list>
     </option>
   </component>
@@ -164,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,6 +191,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,93 +201,93 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.food_query">
-    <configuration default="false" name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test2">
+    <configuration default="false" name="threading_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14_Network_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14_Network_Programming/threading_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="server_using_select" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14_Network_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces/Tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_select.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="w" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="server_using_poll" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14_Network_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces/w.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_poll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="food_query" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="server_using_twisted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_13_Database_Support" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14_Network_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_13_Database_Support/food_query.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14_Network_Programming/server_using_twisted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="importdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_13_Database_Support" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14_Network_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_13_Database_Support/importdata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14_Network_Programming/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -480,19 +486,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Tkinter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.w" />
-      <item index="3" class="java.lang.String" itemvalue="Python.food_query" />
-      <item index="4" class="java.lang.String" itemvalue="Python.importdata" />
+      <item index="0" class="java.lang.String" itemvalue="Python.threading_server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.server_using_select" />
+      <item index="2" class="java.lang.String" itemvalue="Python.server_using_poll" />
+      <item index="3" class="java.lang.String" itemvalue="Python.server_using_twisted" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.food_query" />
-        <item index="1" class="java.lang.String" itemvalue="Python.importdata" />
-        <item index="2" class="java.lang.String" itemvalue="Python.w" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Tkinter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.server_using_twisted" />
+        <item index="2" class="java.lang.String" itemvalue="Python.server_using_poll" />
+        <item index="3" class="java.lang.String" itemvalue="Python.server_using_select" />
+        <item index="4" class="java.lang.String" itemvalue="Python.threading_server" />
       </list>
     </recent_temporary>
   </component>
@@ -557,69 +563,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_8/test9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_8/test10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_8/test11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_8/test12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators/test5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -904,10 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.085642315">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding>
-            <marker date="1457526787731" expanded="true" signature="86:111" placeholder="SELECT * FRO... food" />
-            <marker date="1457526787731" expanded="true" signature="86:113" placeholder="SELECT * FRO... food" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -915,10 +854,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2418137">
           <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16831683">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
-            <marker date="1457525893392" expanded="true" signature="236:442" placeholder="CREATE TABLE... food" />
-            <marker date="1457525893392" expanded="true" signature="517:545" placeholder="INSERT INTO food... " />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/server_using_twisted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028052805">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/server_using_poll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30858085">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/server_using_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28052804">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/threading_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14026402">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/forking_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16831683">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08415841">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/test_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16831683">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14_Network_Programming/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14026402">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
