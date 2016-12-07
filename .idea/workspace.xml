@@ -24,6 +24,7 @@
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$sunspot_final.coverage" NAME="sunspot_final Coverage Results" MODIFIED="1480022669432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_21_project_2_Painting_A_Pretty_Picture" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$find_sender.coverage" NAME="find_sender Coverage Results" MODIFIED="1457400417005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_Batteries_Included" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$CGI_Script.coverage" NAME="CGI_Script Coverage Results" MODIFIED="1457569605143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_15_Python_and_the_Web" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$client.coverage" NAME="client Coverage Results" MODIFIED="1481114119737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$teat13.coverage" NAME="teat13 Coverage Results" MODIFIED="1456836487251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_test1.coverage" NAME="Unittests in test1 Coverage Results" MODIFIED="1480025825454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_22_project_3_XML_For_All_Occasions" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1457451015591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11_Files_and_Stuff" />
@@ -33,6 +34,7 @@
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$numberlines.coverage" NAME="numberlines Coverage Results" MODIFIED="1457360392127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_Batteries_Included" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1457330055867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_TestIterator.coverage" NAME="Unittests in TestIterator Coverage Results" MODIFIED="1457335150325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test_simple_node.coverage" NAME="test_simple_node Coverage Results" MODIFIED="1481108199723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1478569495099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$handlers.coverage" NAME="handlers Coverage Results" MODIFIED="1457746563914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_20_Instant_Markup" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1457481550748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
@@ -46,12 +48,15 @@
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1457712835413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_17_Extending_Python" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test16.coverage" NAME="test16 Coverage Results" MODIFIED="1457336615641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$HTMLParser.coverage" NAME="HTMLParser Coverage Results" MODIFIED="1457563140396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_15_Python_and_the_Web" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$server.coverage" NAME="server Coverage Results" MODIFIED="1481112772642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1457482450182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1457332797252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1481101148668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test27.coverage" NAME="test27 Coverage Results" MODIFIED="1456921087761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_ProductTestCase.coverage" NAME="Unittests in ProductTestCase Coverage Results" MODIFIED="1457656791073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_16_Testing" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$util.coverage" NAME="util Coverage Results" MODIFIED="1479954135812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_20_project_1_Instant_Markup" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test_client.coverage" NAME="test_client Coverage Results" MODIFIED="1457530255853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$simple_node.coverage" NAME="simple_node Coverage Results" MODIFIED="1481105567822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1457482126334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12_Graphical_User_Interfaces" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test26.coverage" NAME="test26 Coverage Results" MODIFIED="1456920730177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_setup.coverage" NAME="Unittests in setup Coverage Results" MODIFIED="1457735311623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_18_Packaging_Your_Programs" />
@@ -70,9 +75,10 @@
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$server_using_select.coverage" NAME="server_using_select Coverage Results" MODIFIED="1457534789133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14_Network_Programming" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test17.coverage" NAME="test17 Coverage Results" MODIFIED="1456845721886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test13.coverage" NAME="test13 Coverage Results" MODIFIED="1456836609580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$q.coverage" NAME="q Coverage Results" MODIFIED="1481105545555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$importdata.coverage" NAME="importdata Coverage Results" MODIFIED="1457527239305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_13_Database_Support" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$newsagent2.coverage" NAME="newsagent2 Coverage Results" MODIFIED="1481019231169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_23_project_4_In_the_News" />
-    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1480026715268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_22_project_3_XML_For_All_Occasions" />
+    <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1481101154362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$sunspot.coverage" NAME="sunspot Coverage Results" MODIFIED="1480011212767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_21_project_2_Painting_A_Pretty_Picture" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$Unittests_in_ProductTestCase__1_.coverage" NAME="Unittests in ProductTestCase (1) Coverage Results" MODIFIED="1457659021196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_16_Testing" />
     <SUITE FILE_PATH="coverage/Beginning Python From Novice to Professional$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1457330563561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9_Methods_Properties_and_Iterators" />
@@ -85,7 +91,32 @@
     <favorites_list name="Beginning Python From Novice to Professional" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,16 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/HTMLParser.py" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/Beautiful_Soup.py" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/CGI_Script.py" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/simple1.cgi" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/faulty.cgi" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/simple2.cgi" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/simple3.cgi" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/PSP.psp" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/mod_python.publisher" />
-        <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/mod_python_publisher.py" />
         <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/RSS.html" />
         <option value="$PROJECT_DIR$/chapter_15_Python_and_the_Web/test2.py" />
         <option value="$PROJECT_DIR$/chapter_16_Testing/test.py" />
@@ -152,6 +173,16 @@
         <option value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/test1.py" />
         <option value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/simple_chat.py" />
         <option value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/chatserver.py" />
+        <option value="$PROJECT_DIR$/chapter_25_project_6_Remote_Editing_with_CGI/simple_edit.cgi" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test1.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test2.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/simple_node.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/q.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/files2/test2.txt" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/files1/test.txt" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test_simple_node.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/server.py" />
+        <option value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/client.py" />
       </list>
     </option>
   </component>
@@ -185,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,9 +229,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beginning Python From Novice to Professional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beginning Python From Novice to Professional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter_27_project_8_File_Sharing_with_XML-RPC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -213,95 +258,127 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.chatserver">
-    <configuration default="false" name="newsagent1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.client">
+    <configuration default="false" name="simple_node" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_23_project_4_In_the_News" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_23_project_4_In_the_News/newsagent1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/simple_node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="newsagent2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="q" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_23_project_4_In_the_News" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_23_project_4_In_the_News/newsagent2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/q.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_simple_node" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test_simple_node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="simple_chat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/simple_chat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="chatserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Beginning Python From Novice to Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_24_project_5_A_Virtual_Tea_party/chatserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" />
+      <option name="scriptPath" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" />
+      <option name="SCRIPT_PATH" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -519,19 +596,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.newsagent1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.newsagent2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.simple_chat" />
-      <item index="4" class="java.lang.String" itemvalue="Python.chatserver" />
+      <item index="0" class="java.lang.String" itemvalue="Python.simple_node" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_simple_node" />
+      <item index="3" class="java.lang.String" itemvalue="Python.server" />
+      <item index="4" class="java.lang.String" itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.chatserver" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simple_chat" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.newsagent2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.newsagent1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.client" />
+        <item index="1" class="java.lang.String" itemvalue="Python.server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_simple_node" />
+        <item index="3" class="java.lang.String" itemvalue="Python.simple_node" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q" />
       </list>
     </recent_temporary>
   </component>
@@ -585,15 +662,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.692429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40063092" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -626,47 +703,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_18_Packaging_Your_Programs/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_19_Playful_Programming/logging_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_19_Playful_Programming/config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_19_Playful_Programming/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/test_input.txt" />
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/util.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/simple_markup.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/test_output.html" />
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/handlers.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_20_Instant_Markup/rules.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_5/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_3/string_formatting_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -918,9 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2720">
           <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -928,9 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,8 +968,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_25_project_6_Remote_Editing_with_CGI/simple_edit.cgi" />
+    <entry file="file://$PROJECT_DIR$/chapter_25_project_6_Remote_Editing_with_CGI/simple_edit.cgi" />
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/q.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test_simple_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/files1/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/simple_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/files2/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_27_project_8_File_Sharing_with_XML-RPC/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
